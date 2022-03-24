@@ -1,6 +1,3 @@
-from curses import meta
-from dataclasses import fields
-from pyexpat import model
 from rest_framework import serializers
 from escola.models import Aluno, Curso
 
